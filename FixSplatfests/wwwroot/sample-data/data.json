@@ -1,0 +1,578 @@
+[
+  {
+    "Name": "Rock vs Paper vs Scissors",
+    "SplatId": 0,
+    "FestNumber": 0,
+    "Region": 0,
+    "Teams": [
+      {
+        "Name": "Rock",
+        "SneakPeak": null,
+        "Votes": 0.4458,
+        "Open": 0.35979999999999995,
+        "Pro": 0.3308,
+        "Tricolor": null
+      },
+      {
+        "Name": "Paper",
+        "SneakPeak": null,
+        "Votes": 0.341,
+        "Open": 0.33990000000000004,
+        "Pro": 0.32549999999999996,
+        "Tricolor": null
+      },
+      {
+        "Name": "Scissors",
+        "SneakPeak": null,
+        "Votes": 0.21309999999999998,
+        "Open": 0.30010000000000003,
+        "Pro": 0.3455,
+        "Tricolor": null
+      }
+    ]
+  },
+  {
+    "Name": "Gear vs Grub vs Fun",
+    "SplatId": 1,
+    "FestNumber": 1,
+    "Region": 0,
+    "Teams": [
+      {
+        "Name": "Gear",
+        "SneakPeak": 0.3345,
+        "Votes": 0.5828,
+        "Open": 0.3529,
+        "Pro": 0.3347,
+        "Tricolor": null
+      },
+      {
+        "Name": "Grub",
+        "SneakPeak": 0.3044,
+        "Votes": 0.207,
+        "Open": 0.31379999999999997,
+        "Pro": 0.3016,
+        "Tricolor": null
+      },
+      {
+        "Name": "Fun",
+        "SneakPeak": 0.3611,
+        "Votes": 0.2102,
+        "Open": 0.3333,
+        "Pro": 0.36369999999999997,
+        "Tricolor": null
+      }
+    ]
+  },
+  {
+    "Name": "Grass vs Fire vs Water",
+    "SplatId": 2,
+    "FestNumber": 2,
+    "Region": 0,
+    "Teams": [
+      {
+        "Name": "Grass",
+        "SneakPeak": 0.3371,
+        "Votes": 0.258,
+        "Open": 0.33409999999999995,
+        "Pro": 0.33590000000000003,
+        "Tricolor": null
+      },
+      {
+        "Name": "Fire",
+        "SneakPeak": 0.32520000000000004,
+        "Votes": 0.336,
+        "Open": 0.3275,
+        "Pro": 0.3055,
+        "Tricolor": null
+      },
+      {
+        "Name": "Water",
+        "SneakPeak": 0.33770000000000006,
+        "Votes": 0.406,
+        "Open": 0.33840000000000003,
+        "Pro": 0.3586,
+        "Tricolor": null
+      }
+    ]
+  },
+  {
+    "Name": "Spicy vs Sweet vs Sour",
+    "SplatId": 3,
+    "FestNumber": 3,
+    "Region": 0,
+    "Teams": [
+      {
+        "Name": "Spicy",
+        "SneakPeak": 0.3322,
+        "Votes": 0.2775,
+        "Open": 0.3285,
+        "Pro": 0.3393,
+        "Tricolor": 0.3389
+      },
+      {
+        "Name": "Sweet",
+        "SneakPeak": 0.344,
+        "Votes": 0.5684,
+        "Open": 0.3557,
+        "Pro": 0.3196,
+        "Tricolor": 0.3372
+      },
+      {
+        "Name": "Sour",
+        "SneakPeak": 0.32380000000000003,
+        "Votes": 0.15410000000000001,
+        "Open": 0.31579999999999997,
+        "Pro": 0.3411,
+        "Tricolor": 0.3239
+      }
+    ]
+  },
+  {
+    "Name": "Dark Chocolate vs Milk Chocolate vs White Chocolate",
+    "SplatId": 4,
+    "FestNumber": 4,
+    "Region": 0,
+    "Teams": [
+      {
+        "Name": "Dark Chocolate",
+        "SneakPeak": 0.3318,
+        "Votes": 0.2447,
+        "Open": 0.3214,
+        "Pro": 0.3332,
+        "Tricolor": 0.33149999999999996
+      },
+      {
+        "Name": "Milk Chocolate",
+        "SneakPeak": 0.31420000000000003,
+        "Votes": 0.3331,
+        "Open": 0.3123,
+        "Pro": 0.3118,
+        "Tricolor": 0.32909999999999995
+      },
+      {
+        "Name": "White Chocolate",
+        "SneakPeak": 0.35159999999999997,
+        "Votes": 0.42219999999999996,
+        "Open": 0.3663,
+        "Pro": 0.355,
+        "Tricolor": 0.3394
+      }
+    ]
+  },
+  {
+    "Name": "Nessie vs Aliens vs Bigfoot",
+    "SplatId": 5,
+    "FestNumber": 5,
+    "Region": 0,
+    "Teams": [
+      {
+        "Name": "Nessie",
+        "SneakPeak": 0.3362,
+        "Votes": 0.4522,
+        "Open": 0.3533,
+        "Pro": 0.3325,
+        "Tricolor": 0.34909999999999997
+      },
+      {
+        "Name": "Aliens",
+        "SneakPeak": 0.33740000000000003,
+        "Votes": 0.46090000000000003,
+        "Open": 0.3267,
+        "Pro": 0.3071,
+        "Tricolor": 0.3286
+      },
+      {
+        "Name": "Bigfoot",
+        "SneakPeak": 0.3264,
+        "Votes": 0.08689999999999999,
+        "Open": 0.32,
+        "Pro": 0.3604,
+        "Tricolor": 0.3223
+      }
+    ]
+  },
+  {
+    "Name": "Power vs Wisdom vs Courage",
+    "SplatId": 6,
+    "FestNumber": 6,
+    "Region": 0,
+    "Teams": [
+      {
+        "Name": "Power",
+        "SneakPeak": 0.3448,
+        "Votes": 0.369,
+        "Open": 0.3422,
+        "Pro": 0.3513,
+        "Tricolor": 0.3447
+      },
+      {
+        "Name": "Wisdom",
+        "SneakPeak": 0.3404,
+        "Votes": 0.3208,
+        "Open": 0.3372,
+        "Pro": 0.3307,
+        "Tricolor": 0.3289
+      },
+      {
+        "Name": "Courage",
+        "SneakPeak": 0.3148,
+        "Votes": 0.3102,
+        "Open": 0.3206,
+        "Pro": 0.318,
+        "Tricolor": 0.3264
+      }
+    ]
+  },
+  {
+    "Name": "Vanilla vs Strawberry vs Mint Chip",
+    "SplatId": 7,
+    "FestNumber": 7,
+    "Region": 0,
+    "Teams": [
+      {
+        "Name": "Vanilla",
+        "SneakPeak": 0.3429,
+        "Votes": 0.5504,
+        "Open": 0.33899999999999997,
+        "Pro": 0.30219999999999997,
+        "Tricolor": 0.34130000000000005
+      },
+      {
+        "Name": "Strawberry",
+        "SneakPeak": 0.3246,
+        "Votes": 0.19030000000000002,
+        "Open": 0.3276,
+        "Pro": 0.3465,
+        "Tricolor": 0.32
+      },
+      {
+        "Name": "Mint Chip",
+        "SneakPeak": 0.3325,
+        "Votes": 0.2593,
+        "Open": 0.33340000000000003,
+        "Pro": 0.3513,
+        "Tricolor": 0.3387
+      }
+    ]
+  },
+  {
+    "Name": "Money vs Fame vs Love",
+    "SplatId": 8,
+    "FestNumber": 8,
+    "Region": 0,
+    "Teams": [
+      {
+        "Name": "Money",
+        "SneakPeak": 0.35450000000000004,
+        "Votes": 0.4728,
+        "Open": 0.3371,
+        "Pro": 0.214,
+        "Tricolor": 0.3419
+      },
+      {
+        "Name": "Fame",
+        "SneakPeak": 0.3189,
+        "Votes": 0.091,
+        "Open": 0.32439999999999997,
+        "Pro": 0.3696,
+        "Tricolor": 0.3299
+      },
+      {
+        "Name": "Love",
+        "SneakPeak": 0.32659999999999995,
+        "Votes": 0.4362,
+        "Open": 0.3385,
+        "Pro": 0.33640000000000003,
+        "Tricolor": 0.3282
+      }
+    ]
+  },
+  {
+    "Name": "Shiver vs Frye vs Big Man",
+    "SplatId": 9,
+    "FestNumber": 9,
+    "Region": 0,
+    "Teams": [
+      {
+        "Name": "Shiver",
+        "SneakPeak": 0.3249,
+        "Votes": 0.5518,
+        "Open": 0.33509999999999995,
+        "Pro": 0.2983,
+        "Tricolor": 0.3406
+      },
+      {
+        "Name": "Frye",
+        "SneakPeak": 0.3465,
+        "Votes": 0.1773,
+        "Open": 0.33130000000000004,
+        "Pro": 0.3482,
+        "Tricolor": 0.3248
+      },
+      {
+        "Name": "Big Man",
+        "SneakPeak": 0.3286,
+        "Votes": 0.2709,
+        "Open": 0.3336,
+        "Pro": 0.35350000000000004,
+        "Tricolor": 0.3346
+      }
+    ]
+  },
+  {
+    "Name": "Zombie vs Skeleton vs Ghost",
+    "SplatId": 10,
+    "FestNumber": 10,
+    "Region": 0,
+    "Teams": [
+      {
+        "Name": "Zombie",
+        "SneakPeak": 0.32549999999999996,
+        "Votes": 0.1932,
+        "Open": 0.3311,
+        "Pro": 0.33909999999999996,
+        "Tricolor": 0.3273
+      },
+      {
+        "Name": "Skeleton",
+        "SneakPeak": 0.33,
+        "Votes": 0.1766,
+        "Open": 0.3362,
+        "Pro": 0.35119999999999996,
+        "Tricolor": 0.3346
+      },
+      {
+        "Name": "Ghost",
+        "SneakPeak": 0.34450000000000003,
+        "Votes": 0.6302,
+        "Open": 0.33270000000000005,
+        "Pro": 0.3097,
+        "Tricolor": 0.3381
+      }
+    ]
+  },
+  {
+    "Name": "Kaiten-yaki vs ?ban-yaki vs Imagawa-yaki",
+    "SplatId": 11,
+    "FestNumber": 11,
+    "Region": 0,
+    "Teams": [
+      {
+        "Name": "Kaiten-yaki",
+        "SneakPeak": 0.3335,
+        "Votes": 0.1916,
+        "Open": 0.33390000000000003,
+        "Pro": 0.3343,
+        "Tricolor": 0.32380000000000003
+      },
+      {
+        "Name": "?ban-yaki",
+        "SneakPeak": 0.33409999999999995,
+        "Votes": 0.43729999999999997,
+        "Open": 0.3312,
+        "Pro": 0.32380000000000003,
+        "Tricolor": 0.3407
+      },
+      {
+        "Name": "Imagawa-yaki",
+        "SneakPeak": 0.33240000000000003,
+        "Votes": 0.3711,
+        "Open": 0.33490000000000003,
+        "Pro": 0.3419,
+        "Tricolor": 0.33549999999999996
+      }
+    ]
+  },
+  {
+    "Name": "Friends vs Family vs Solo",
+    "SplatId": 12,
+    "FestNumber": 12,
+    "Region": 0,
+    "Teams": [
+      {
+        "Name": "Friends",
+        "SneakPeak": 0.3119,
+        "Votes": 0.32439999999999997,
+        "Open": 0.3418,
+        "Pro": 0.3411,
+        "Tricolor": 0.31829999999999997
+      },
+      {
+        "Name": "Family",
+        "SneakPeak": 0.3152,
+        "Votes": 0.2527,
+        "Open": 0.3136,
+        "Pro": 0.3084,
+        "Tricolor": 0.32409999999999994
+      },
+      {
+        "Name": "Solo",
+        "SneakPeak": 0.3729,
+        "Votes": 0.4229,
+        "Open": 0.3446,
+        "Pro": 0.3505,
+        "Tricolor": 0.3576
+      }
+    ]
+  },
+  {
+    "Name": "Red Bean Paste vs Custard vs Whipped Cream",
+    "SplatId": 14,
+    "FestNumber": 14,
+    "Region": 0,
+    "Teams": [
+      {
+        "Name": "Red Bean Paste",
+        "SneakPeak": 0.33509999999999995,
+        "Votes": 0.182,
+        "Open": 0.332,
+        "Pro": 0.3417,
+        "Tricolor": 0.314
+      },
+      {
+        "Name": "Custard",
+        "SneakPeak": 0.3233,
+        "Votes": 0.26239999999999997,
+        "Open": 0.3237,
+        "Pro": 0.336,
+        "Tricolor": 0.3153
+      },
+      {
+        "Name": "Whipped Cream",
+        "SneakPeak": 0.34159999999999996,
+        "Votes": 0.5556,
+        "Open": 0.3443,
+        "Pro": 0.3223,
+        "Tricolor": 0.37070000000000003
+      }
+    ]
+  },
+  {
+    "Name": "Handshake vs Fist Bump vs Hug",
+    "SplatId": 111,
+    "FestNumber": 11,
+    "Region": 1,
+    "Teams": [
+      {
+        "Name": "Handshake",
+        "SneakPeak": 0.3273,
+        "Votes": 0.1845,
+        "Open": 0.3248,
+        "Pro": 0.35619999999999996,
+        "Tricolor": 0.3478
+      },
+      {
+        "Name": "Fist Bump",
+        "SneakPeak": 0.35009999999999997,
+        "Votes": 0.47909999999999997,
+        "Open": 0.3431,
+        "Pro": 0.3225,
+        "Tricolor": 0.32909999999999995
+      },
+      {
+        "Name": "Hug",
+        "SneakPeak": 0.3226,
+        "Votes": 0.33640000000000003,
+        "Open": 0.3321,
+        "Pro": 0.32130000000000003,
+        "Tricolor": 0.3231
+      }
+    ]
+  },
+  {
+    "Name": "Friends vs Family vs Solo",
+    "SplatId": 112,
+    "FestNumber": 12,
+    "Region": 1,
+    "Teams": [
+      {
+        "Name": "Friends",
+        "SneakPeak": 0.3119,
+        "Votes": 0.32439999999999997,
+        "Open": 0.3418,
+        "Pro": 0.3411,
+        "Tricolor": 0.31829999999999997
+      },
+      {
+        "Name": "Family",
+        "SneakPeak": 0.3152,
+        "Votes": 0.2527,
+        "Open": 0.3136,
+        "Pro": 0.3084,
+        "Tricolor": 0.32409999999999994
+      },
+      {
+        "Name": "Solo",
+        "SneakPeak": 0.3729,
+        "Votes": 0.4229,
+        "Open": 0.3446,
+        "Pro": 0.3505,
+        "Tricolor": 0.3576
+      }
+    ]
+  },
+  {
+    "Name": "Friday vs Saturday vs Sunday",
+    "SplatId": 113,
+    "FestNumber": 13,
+    "Region": 1,
+    "Teams": [
+      {
+        "Name": "Friday",
+        "SneakPeak": 0.33049999999999996,
+        "Votes": 0.2253,
+        "Open": 0.33509999999999995,
+        "Pro": 0.35200000000000004,
+        "Tricolor": 0.3204
+      },
+      {
+        "Name": "Saturday",
+        "SneakPeak": 0.337,
+        "Votes": 0.6657,
+        "Open": 0.3332,
+        "Pro": 0.31370000000000003,
+        "Tricolor": 0.3187
+      },
+      {
+        "Name": "Sunday",
+        "SneakPeak": 0.3325,
+        "Votes": 0.109,
+        "Open": 0.3317,
+        "Pro": 0.3343,
+        "Tricolor": 0.36090000000000005
+      }
+    ]
+  },
+  {
+    "Name": "Rock vs Paper vs Scissors",
+    "SplatId": 200,
+    "FestNumber": 0,
+    "Region": 2,
+    "Teams": [
+      {
+        "Name": "Rock",
+        "SneakPeak": null,
+        "Votes": 0.42700000000000005,
+        "Open": 0.3703,
+        "Pro": 0.3276,
+        "Tricolor": null
+      },
+      {
+        "Name": "Paper",
+        "SneakPeak": null,
+        "Votes": 0.1702,
+        "Open": 0.2989,
+        "Pro": 0.34909999999999997,
+        "Tricolor": null
+      },
+      {
+        "Name": "Scissors",
+        "SneakPeak": null,
+        "Votes": 0.40259999999999996,
+        "Open": 0.3306,
+        "Pro": 0.3232,
+        "Tricolor": null
+      }
+    ]
+  }
+]
