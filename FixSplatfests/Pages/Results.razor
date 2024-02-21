@@ -1,0 +1,44 @@
+﻿@page "/results"
+@using System.Text
+<h3>Results</h3>
+
+@GetBody()
+
+
+@code {
+
+    private MarkupString GetBody()
+    {
+        Home.SplatfestResults[] results = [.. Home.FestData.Select(z => new Home.SplatfestResults(z, Home.ScoringWeights))];
+        
+        StringBuilder sb = new();
+
+        sb.AppendLine("<table>");
+        sb.AppendLine("<tr>");
+        sb.AppendLine("<th>Idol</th>");
+        sb.AppendLine("<th>Total Wins</th>");
+        sb.AppendLine("</tr>");
+        sb.AppendLine("<table>");
+        sb.AppendLine("<tr>");
+        sb.AppendLine("<td>Shiver</td>");
+        sb.AppendLine($"<td>{results.Count(z => z.WinnerIndex == 0)}</td>");
+        sb.AppendLine("</tr>");
+        sb.AppendLine("<tr>");
+        sb.AppendLine("<td>Frye</td>");
+        sb.AppendLine($"<td>{results.Count(z => z.WinnerIndex == 1)}</td>");
+        sb.AppendLine("</tr>");
+        sb.AppendLine("<tr>");
+        sb.AppendLine("<td>Bigman</td>");
+        sb.AppendLine($"<td>{results.Count(z => z.WinnerIndex == 2)}</td>");
+        sb.AppendLine("</tr>");
+        sb.AppendLine("<br/>");
+
+        sb.AppendLine("</table>");
+        foreach (Home.SplatfestResults result in results)
+        {
+            sb.AppendLine(result.PrintResults());
+            sb.AppendLine("<br/>");
+        }
+        return new MarkupString(sb.ToString());
+    }
+}
