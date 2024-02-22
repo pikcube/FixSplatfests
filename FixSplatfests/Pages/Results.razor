@@ -18,7 +18,6 @@
         sb.AppendLine("<th>Idol</th>");
         sb.AppendLine("<th>Total Wins</th>");
         sb.AppendLine("</tr>");
-        sb.AppendLine("<table>");
         sb.AppendLine("<tr>");
         sb.AppendLine("<td>Shiver</td>");
         sb.AppendLine($"<td>{results.Count(z => z.WinnerIndex == 0)}</td>");
@@ -31,9 +30,8 @@
         sb.AppendLine("<td>Bigman</td>");
         sb.AppendLine($"<td>{results.Count(z => z.WinnerIndex == 2)}</td>");
         sb.AppendLine("</tr>");
-        sb.AppendLine("<br/>");
-
         sb.AppendLine("</table>");
+        sb.AppendLine("<br/>");
         foreach (Home.SplatfestResults result in results)
         {
             sb.AppendLine(result.PrintResults());
